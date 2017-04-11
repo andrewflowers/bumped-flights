@@ -1,0 +1,9 @@
+{
+    "path" : "~/projects/bumped-flights",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

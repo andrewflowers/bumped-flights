@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1491885705765.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2FC8F9A2",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1491885705765,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B286A40A",
+        "caption" : "united_comp",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=united_comp&cache_key=B286A40A",
+        "displayedObservations" : "9",
+        "environment" : "",
+        "object" : "united_comp",
+        "preview" : "0",
+        "totalObservations" : "9",
+        "variables" : "6"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

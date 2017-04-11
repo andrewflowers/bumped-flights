@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1489678205737.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A33DF785",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1489678205737,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F17B9C47",
+        "caption" : "carrier_by_year",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=carrier_by_year&cache_key=F17B9C47",
+        "displayedObservations" : "97",
+        "environment" : "",
+        "object" : "carrier_by_year",
+        "preview" : "0",
+        "totalObservations" : "97",
+        "variables" : "7"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
